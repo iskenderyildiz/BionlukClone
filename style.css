@@ -1,0 +1,22 @@
+.kutular {
+    background-color: white;
+    width: 372px;
+    min-height: 300px;
+}
+
+.butonlar {
+    border: 1px solid white;
+    background: rgb(45, 52, 96);
+    padding: 7px 10px;
+    color: white; 
+    border-radius: 14px;
+    position: absolute;
+    left: 40px;
+    top: 125px;
+}
+
+.altfluid {
+    background-image: linear-gradient(79deg,rgba(230,50,98,.9),rgba(253,64,86,.9));
+}
+
+
